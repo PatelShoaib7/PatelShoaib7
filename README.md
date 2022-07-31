@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shoaib</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img width="100%" src="https://media0.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif?cid=ecf05e47r59bi4nrsc5imdpjgx6lcxubez86t7w9y86hjh4e&rid=giphy.gif&ct=g" alt="patelshoaib7" /> </p>
+<p align="left"> <img width="100%" height="450px" src="https://media0.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif?cid=ecf05e47r59bi4nrsc5imdpjgx6lcxubez86t7w9y86hjh4e&rid=giphy.gif&ct=g" alt="patelshoaib7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patelshoaib7" alt="patelshoaib7" /></a> </p>
 
