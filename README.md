@@ -1,14 +1,15 @@
 
 
-<h1 align="center">Hi 👋, I'm Shoaib</h1>
+<h1 align="center size="200px">Hi 👋, I'm Shoaib Patel </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img width="100%" height="450px" src="https://media0.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif?cid=ecf05e47r59bi4nrsc5imdpjgx6lcxubez86t7w9y86hjh4e&rid=giphy.gif&ct=g" alt="patelshoaib7" /> </p>
+<p align="left"> <img width="100%" height="450px" src="https://media4.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e47tpuhrmemrur90ppma82gi2qwcvn45bt5mxzcaul2&rid=giphy.gif&ct=s" alt="patelshoaib7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patelshoaib7" alt="patelshoaib7" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/stardomeof" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/stardomeof?logo=twitter&style=for-the-badge" alt="https://twitter.com/stardomeof" /></a> </p>
 
+  
 - 🔭 I’m currently working on [DermaStore](https://golden-croquembouche-db501b.netlify.app)
 
 - 🌱 I’m currently learning **Node.js Express.js TypeScript.js**
@@ -20,16 +21,17 @@
 - 📫 How to reach me **Patelshoaib125@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/3oFQWSI](https://bit.ly/3oFQWSI)
-
+<img align="right" width="400px" height="300px" src="https://media0.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif?cid=ecf05e47si19ju0lwt3w6sgm59pm5vt16tb6mcohvwpvlcft&rid=giphy.gif&ct=g"/>
 - ⚡ Fun fact **Nothing Is Funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/stardomeof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/stardomeof" height="30" width="40" /></a>
+<a href="https://twitter.com/stardomeof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/stardomeof" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shoaib-patel-230449203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shoaib-patel-230449203" height="30" width="40" /></a>
 <a href="https://codesandbox.com/pshoaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pshoaib" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/people/shoaib-patel/100018466834024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/shoaib-patel/100018466834024/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/shoaib_p.a.t.e.l/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shoaib_p.a.t.e.l/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/shoaib_p.a.t.e.l/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shoaib_p.a.t.e.l/" height="30" width="40" />  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,4 +41,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patelshoaib7&show_icons=true&locale=en" alt="patelshoaib7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patelshoaib7&" alt="patelshoaib7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patelshoaib7&" alt="patelshoaib7" />  
+                                                                                                                    </p>
+                                                                                                                    <p>  </p>
+                                                                                                                  
+                                                                                                                    
+                                                                                                                    
