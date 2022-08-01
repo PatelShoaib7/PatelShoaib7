@@ -28,10 +28,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/stardomeof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/stardomeof" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shoaib-patel-230449203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shoaib-patel-230449203" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/shoaib-patel-230449203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shoaib-patel-230449203" height="30" width="40" /></a>
 <a href="https://codesandbox.com/pshoaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pshoaib" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/people/shoaib-patel/100018466834024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/shoaib-patel/100018466834024/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/shoaib_p.a.t.e.l/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shoaib_p.a.t.e.l/" height="30" width="40" />  </a>
+<a href="https://fb.com/people/shoaib-patel/100018466834024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/shoaib-patel/100018466834024/" height="30" width="40" /></a>
+<a href="https://instagram.com/shoaib_p.a.t.e.l/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shoaib_p.a.t.e.l/" height="30" width="40" />  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
