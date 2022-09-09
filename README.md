@@ -12,11 +12,11 @@
   
 - 🔭 I’m currently working on [DermaStore](https://golden-croquembouche-db501b.netlify.app)
 
-- 🌱 I’m currently learning **Node.js Express.js TypeScript.js**
+- 🌱 I’m currently learning **Node.js Express.js React.js Mongo.db**
 
 - 👨‍💻 All of my projects are available at [https://spiffy-klepon-58946f.netlify.app/](https://spiffy-klepon-58946f.netlify.app/)
 
-- 💬 Ask me about **React,Redux ,TypeScript**
+- 💬 Ask me about **React,Redux , JavScript**
 
 - 📫 How to reach me **Patelshoaib125@gmail.com**
 
