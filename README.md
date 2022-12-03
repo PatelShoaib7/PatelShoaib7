@@ -1,5 +1,3 @@
-
-
 <h1 align="center size="200px">Hi 👋, I'm Shoaib Patel </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
