@@ -12,33 +12,9 @@
 <p align="left"> <img width="100%" height="300px" src="https://media4.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e47tpuhrmemrur90ppma82gi2qwcvn45bt5mxzcaul2&rid=giphy.gif&ct=s" alt="patelshoaib7" /> 
 </p>
 <br />
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
-
 <p align="left"> <a href="https://twitter.com/https://twitter.com/stardomeof" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/stardomeof?logo=twitter&style=for-the-badge" alt="https://twitter.com/stardomeof" /></a> </p>
-
-  
-- 🔭 I’m currently working on [DermaStore](https://golden-croquembouche-db501b.netlify.app)
-
-- 🌱 I’m currently learning **Node.js Express.js React.js Mongo.db**
-
-- 👨‍💻 All of my projects are available at [https://spiffy-klepon-58946f.netlify.app/](https://spiffy-klepon-58946f.netlify.app/)
-
-- 💬 Ask me about **React,Redux , JavScript**
-
-- 📫 How to reach me **Patelshoaib125@gmail.com**
-
-
-
-- 📄 Know about my experiences [https://bit.ly/3oFQWSI](https://bit.ly/3oFQWSI)
-<img align="right" width="400px" height="300px" src="https://media0.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif?cid=ecf05e47si19ju0lwt3w6sgm59pm5vt16tb6mcohvwpvlcft&rid=giphy.gif&ct=g"/>
-- ⚡ Fun fact **Nothing Is Funny**
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/stardomeof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stardomeof" height="30" width="40" /></a>
